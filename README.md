@@ -1,3 +1,9 @@
+## About project  
+  
+
+Server application for - https://github.com/RuslanBeliy/my-blog-client
+
+
 ## How to run project  
   
 
